@@ -63,76 +63,10 @@ menu:
     - name: "English"
       url: "/en/"
       weight: 6
-  knitr:
-    - name: "Home"
-      url: "/knitr/"
-      weight: 1
-    - name: "Options"
-      url: "/knitr/options/"
-      weight: 2
-    - name: "Hooks"
-      url: "/knitr/hooks/"
-      weight: 3
-    - name: "Examples"
-      url: "/knitr/demos/"
-      weight: 4
-    - name: "FAQ"
-      url: "/knitr/faq/"
-      weight: 5
-    - name: "Github repo"
-      pre: "github"
-      url: "https://github.com/yihui/knitr"
-      weight: 6
-    - name: "Yihui Xie"
-      url: "/"
-      weight: 7
-  animation:
-    - name: "Home"
-      url: "/animation/"
-      weight: 1
-    - name: "Examples"
-      url: "/animation/examples/"
-      weight: 2
-    - name: "Export"
-      url: "/animation/export/"
-      weight: 3
-    - name: "Resources"
-      url: "/animation/resources/"
-      weight: 4
-    - name: "Github repo"
-      pre: "github"
-      url: "https://github.com/yihui/animation"
-      weight: 5
-    - name: "Yihui Xie"
-      url: "/"
-      weight: 6
-  tinytex:
-    - name: "Home"
-      url: "/tinytex/"
-      weight: 1
-    - name: "FAQs"
-      url: "/tinytex/faq/"
-      weight: 2
-    - name: "R package"
-      url: "/tinytex/r/"
-      weight: 3
-    - name: "Hall of Pain"
-      url: "/tinytex/pain/"
-      weight: 4
-    - name: "中文文档"
-      url: "/tinytex/cn/"
-      weight: 5
-    - name: "Github repo"
-      pre: "github"
-      url: "https://github.com/yihui/tinytex"
-      weight: 6
-    - name: "Yihui Xie"
-      url: "/"
-      weight: 7
-
+  
 params:
   description: "Personal website of Xin Zhang; 张鑫的个人网站"
-  footer: "&copy; [Xin Zhang](/) 2005 - 2018 | [Github](https://github.com/xinzhangseu) | [Twitter](https://twitter.com/xieyihui)"
+  footer: "&copy; [Xin Zhang](/) 2005 - 2018 | [Github](https://github.com/xinzhangseu) | [Weibo](https://weibo.com/5821944307/profile?rightmod=1&wvr=6&mod=personinfo&is_all=1) | [Google Scholar](https://scholar.google.com/citations?user=iBB-JZ8AAAAJ&hl=zh-CN)"
   disqusURL: "http://xzhang.netlify.com"
   customJS: ["js/center-img.js", "js/right-quote.js", "js/no-highlight.js", "js/fix-footnote.js", "js/math-code.js"]
   githubContentURL: "https://github.com/xinzhangseu/myblog/tree/master/content/"
@@ -154,7 +88,7 @@ params:
   author:
     en: "Xin Zhang"
     cn: "张鑫"
-    animation: "Yihui Xie & Lijia Yu"
+    animation: "Xin Zhang & Lian Qu"
 
   lang:
     edit:
