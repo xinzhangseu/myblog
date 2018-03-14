@@ -1,9 +1,9 @@
-baseurl: "https://yihui.name/"
+baseurl: "/"
 languageCode: "en-us"
-title: "Yihui Xie | 谢益辉"
+title: "Xin Zhang | 张鑫"
 theme: "hugo-ivy"
 googleAnalytics: "UA-1988641-2"
-disqusShortname: "yihui"
+disqusShortname: "Xin"
 ignoreFiles: ["\\.Rmd$", "_files$", "_cache$"]
 hasCJKLanguage: true
 enableEmoji: true
@@ -131,11 +131,11 @@ menu:
       weight: 7
 
 params:
-  description: "Personal website of Yihui Xie; 谢益辉的个人网站"
-  footer: "&copy; [Yihui Xie](/) 2005 - 2018 | [Github](https://github.com/yihui) | [Twitter](https://twitter.com/xieyihui)"
-  disqusURL: "http://yihui.name"
+  description: "Personal website of Xin Zhang; 张鑫的个人网站"
+  footer: "&copy; [Xin Zhang](/) 2005 - 2018 | [Github](https://github.com/xinzhangseu) | [Twitter](https://twitter.com/xieyihui)"
+  disqusURL: "http://xzhang.netlify.com"
   customJS: ["js/center-img.js", "js/right-quote.js", "js/no-highlight.js", "js/fix-footnote.js", "js/math-code.js"]
-  githubContentURL: "https://github.com/rbind/yihui/edit/master/content/"
+  githubContentURL: "https://github.com/xinzhangseu/myblog/tree/master/content/"
 
   # options for highlight.js (version, additional languages, and theme)
   highlightjsVersion: "9.12.0"
@@ -147,22 +147,13 @@ params:
     en:
       img: "/images/logo.png"
       url: "/"
-      alt: "Yihui Xie"
+      alt: "Xin Zhang"
       tag: ""
-    knitr:
-      img: "/knitr/images/knit-logo.png"
-      url: "/knitr/"
-      alt: "knitr logo"
-      tag: "knitr: elegant, flexible, and fast dynamic report generation with R"
-    tinytex:
-      img: "/images/logo-tinytex.png"
-      url: "/tinytex/"
-      alt: "tinytex logo"
-      tag: "TinyTeX: A lightweight and easy-to-maintain LaTeX distribution"
+    
 
   author:
-    en: "Yihui Xie"
-    cn: "谢益辉"
+    en: "Xin Zhang"
+    cn: "张鑫"
     animation: "Yihui Xie & Lijia Yu"
 
   lang:
