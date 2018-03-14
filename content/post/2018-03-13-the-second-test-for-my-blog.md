@@ -9,3 +9,5 @@ tags:
   - Stochastic
 ---
 * This is a second test.
+
+$$a^2+v=\sqrt{m}$$
