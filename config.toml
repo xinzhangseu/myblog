@@ -1,12 +1,15 @@
 baseurl = "/"
 languageCode = "en-us"
-title = "Hugo Ivy"
+title = "Xin Zhang | 张鑫"
 theme = "hugo-ivy"
 googleAnalytics = ""
 disqusShortname = ""
 ignoreFiles = ["\\.Rmd$", "_files$", "_cache$"]
+hasCJKLanguage: true
+enableEmoji: true
 preserveTaxonomyNames = true
 footnotereturnlinkcontents = "↩"
+rssLimit: 100
 
 [permalinks]
     post = "/post/:year/:month/:day/:slug/"
