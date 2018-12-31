@@ -1,0 +1,10 @@
+---
+title: Math Note Test
+author: Xin Zhang
+date: '2018-12-31'
+slug: math-note-test
+categories: []
+tags: []
+---
+
+$$a^2+b_3=v^7$$
