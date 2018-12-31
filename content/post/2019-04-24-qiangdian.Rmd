@@ -1,0 +1,13 @@
+---
+title: 强电设计
+author: 张鑫
+date: '2019-04-24'
+slug: qiangdian
+categories:
+  - 装修
+tags:
+  - 澜悦栖原
+---
+# 强电回路设计
+##  要
+### 基
