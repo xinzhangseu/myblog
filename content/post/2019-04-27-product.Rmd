@@ -1,0 +1,16 @@
+---
+title: 装修产品购买
+author: ''
+date: '2019-04-27'
+slug: product
+categories:
+  - 装修
+tags:
+  - 澜悦栖原
+---
+
+### 一、 强电箱
+
+  * 德力西 CDL7-63或DZ47L-63 电磁式漏电保护开关
+  * 施耐德Acti9iID电磁式漏电保护开关
+
