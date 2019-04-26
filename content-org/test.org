@@ -1,0 +1,26 @@
+#+HUGO_BASE_DIR: ../
+#+HUGO_SECTION: ../content/post/
+
+#+HUGO_WEIGHT: auto
+#+HUGO_AUTO_SET_LASTMOD: t
+#+SEQ_TODO: TODO DRAFT DONE
+
+
+#+author:
+#+hugo_custom_front_matter: :author "Xin Zhang"
+
+#+TITLE: Org mode for Hugo
+
+#+HUGO_TAGS: 标签
+#+HUGO_DRAFT: true
+
+* test
+** TODO This is a test
+:PROPERTIES:
+:EXPORT_FILE_NAME: this-is-a-test
+:EXPORT_DATE: [2019-02-03 Sun 17:07]
+:END:
+
+
+So this is a specially case 
+How are from this is a good start.
