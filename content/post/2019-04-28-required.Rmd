@@ -45,17 +45,51 @@ tags:
 #### 3.1 客厅家庭影音系统
 
  * 投影仪
- * [星环Star X4K智能回音壁](https://item.jd.com/40250560734.html) **或者** [星环极线版无线家庭影院5.1Max](https://item.jd.com/46240689641.html#crumb-wrap)
- ![](/images/starloopX.jpg)
+ * 家庭影院音响
  
-```{r pressure, echo=FALSE, fig.cap="A caption", out.width='80%'}
-knitr::include_graphics("/images/starloop.jpeg")
-```
+ ![](/images/starloop.jpeg)
+ [![](/images/starloop1.jpeg)](https://item.jd.com/46240689641.html#crumb-wrap)
+ [![](/images/starloopX.jpeg)](https://item.jd.com/40250560734.html)
+ 
+
+
+#### 3.2 厨房电器购买
+
+* 水槽
+
+[![](/images/shuicao.jpeg)](https://item.taobao.com/item.htm?spm=a1z0d.6639537.1997196601.151.13307484E7ianp&id=582513074414)
+
+* 燃气灶+油烟机
+
+[![](/images/youyanji1.jpeg)](https://item.jd.com/2607373.html#crumb-wrap)
+
+[![](/images/youyanji2.jpeg)](https://item.jd.com/100003279296.html)
 
 
 
 
+* 洗碗机：[下面两款评测对比](https://post.smzdm.com/p/a25rq6rp/)
+
+[![](/images/xiwanji-daogrs1.jpeg)](https://item.jd.com/100004828676.html)
+
+[![](/images/xiwanji-daogrs2.jpeg)](https://item.jd.com/11289763170.html)
+[![](/images/xiwanji-simens1.jpeg)](https://item.jd.com/7214578.html#crumb-wrap)
+[![](/images/xiwanji-simens2.jpeg)](https://item.jd.com/7428417.html)
+
+* 烤箱、蒸箱、微波炉
+
+[![](/images/kaoxiang-simens1.jpeg)](https://item.jd.com/40818575852.html)
+[![](/images/kaoxiang-simens2.jpeg)](https://item.jd.com/40816636872.html)
+[![](/images/kaoxinag-simens21.jpeg)](https://item.jd.com/6771295.html#crumb-wrap)
+[![](/images/kaoxiang-simens3.jpeg)](https://item.jd.com/6864319.html#crumb-wrap)
+
+* 厨余垃圾处理器
+
+[![](/images/becbas1.jpeg)](https://detail.tmall.com/item.htm?spm=a220m.1000858.1000725.1.7f8c5e99l86tSK&id=566529221807&areaId=320100&user_id=3048822382&cat_id=2&is_b=1&rn=f2b270b27be73f2b5f17631edae39b3a)
+[![](/images/becbas2.jpeg)](https://detail.tmall.com/item.htm?spm=a1z10.3-b-s.w4011-15655300821.32.57ab46ddCA3nd1&id=584865105801&rn=7ce2caca976b3a87f4b8734c527aff17&abbucket=3)
+
  
- 
- 
+#### 3.3 干衣机
+
+[![](/images/ganyiji.jpeg)](https://item.jd.com/100002979925.html#crumb-wrap)
    
