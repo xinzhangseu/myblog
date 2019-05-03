@@ -1,12 +1,15 @@
 ---
-title: 装修设计需求
+title: "装修设计需求"
 author: ''
 date: '2019-04-28'
+output:
+  html_document:
+    df_print: paged
+  pdf_document: default
+  word_document: default
 slug: required
-categories:
-  - 装修
-tags:
-  - 澜悦栖原
+tags: 澜悦栖原
+categories: 装修
 ---
 
 ### 一、强电回路需求
@@ -92,4 +95,17 @@ tags:
 #### 3.3 干衣机
 
 [![](/images/ganyiji.jpeg)](https://item.jd.com/100002979925.html#crumb-wrap)
+
+
+#### 3.4 卫生间电器
+
+* 淋浴花洒
+
+[![](/images/linyu-hans1.jpeg)](https://item.taobao.com/item.htm?spm=a230r.1.14.15.75174969uHjSCl&id=557954573996&ns=1&abbucket=16#detail)
+
+
+* 智能马桶盖
+
+[![](/images/matonggai-songxia.jpeg)](https://item.jd.com/11689827070.html)
+
    
