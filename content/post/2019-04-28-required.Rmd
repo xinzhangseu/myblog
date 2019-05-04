@@ -48,9 +48,13 @@ categories: 装修
 #### 3.1 客厅家庭影音系统
 
  * 投影仪
+  
+  [![](/images/mingji1.jpeg)](https://item.jd.com/35157185377.html#crumb-wrap)
+
+   [![](/images/mingji2.jpeg)](https://item.jd.com/5965771.html)
+
  * 家庭影院音响
  
- ![](/images/starloop.jpeg)
  [![](/images/starloop1.jpeg)](https://item.jd.com/46240689641.html#crumb-wrap)
  [![](/images/starloopX.jpeg)](https://item.jd.com/40250560734.html)
  
@@ -107,5 +111,10 @@ categories: 装修
 * 智能马桶盖
 
 [![](/images/matonggai-songxia.jpeg)](https://item.jd.com/11689827070.html)
+
+* 风暖浴霸
+
+[![](/images/yuba-songxia.jpeg)](https://item.jd.com/34041062926.html#crumb-wrap)
+
 
    
